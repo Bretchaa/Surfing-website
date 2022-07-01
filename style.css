@@ -1,0 +1,14 @@
+.background
+{
+	height : 400px;
+	background-image: url("https://i0.heartyhosting.com/www.surfer.com/wp-content/uploads/2019/12/laura.jpg?resize=1200%2C630");
+	background-size: cover;
+
+}
+
+
+.dark_image
+{
+	height: 120px;
+	width: 120px;
+}
